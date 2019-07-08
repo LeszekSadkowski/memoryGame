@@ -1,0 +1,22 @@
+.game-board{
+    margin: 30px auto;
+    position: relative;
+    background: #ffffff;
+    overflow: hidden;
+    width: 550px;
+    height: 444px;
+    border: 2px solid #dddddd;
+}
+.game-tile{
+    position: absolute;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    background: #f6da17 url("images/title.png") center center no-repeat;
+}
+.game-tile:hover{
+    background-color: #f7c11a;
+}
+.game-score{
+    text-align: center;
+}
