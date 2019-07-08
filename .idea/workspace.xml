@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09181d82-5a66-4d31-aa54-493ab77869af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/memory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/title_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,20 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitIgnore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="554">
+              <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -86,14 +61,14 @@
       <list>
         <option value="$PROJECT_DIR$/inex.html" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/.gitIgnore" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="620" />
-    <option name="y" value="27" />
+    <option name="x" value="453" />
+    <option name="y" value="58" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -146,15 +121,15 @@
       <option name="presentableId" value="Default" />
       <updated>1562605128869</updated>
       <workItem from="1562605133463" duration="28000" />
-      <workItem from="1562605312138" duration="3747000" />
+      <workItem from="1562605312138" duration="7215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3775000" />
+    <option name="totallyTimeSpent" value="7243000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="496" y="22" width="1400" height="784" extended-state="0" />
+    <frame x="471" y="44" width="1400" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
@@ -197,17 +172,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitIgnore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
         </state>
       </provider>
     </entry>

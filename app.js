@@ -17,7 +17,30 @@ const memoryGame = {
         'title_8.png',
         'title_9.png',
         'title_1.png'
-    ]
+    ],
 
+    this.startGame = function(){
+        //cleaning board
+        this.divBoard = document.querySelector('.game-board');
+        this.divBoard.innerHTML = '';
+
+        //cleaning scoreboard
+        this.divScore = document.querySelector('.game-score');
+        this.divScore.innerHTML = '';
+
+        //cleaning variables
+        this.tiles=[];
+        this.tilesChecked = [];
+        this.moveCount = '';
+
+        //cresting array with pairs the numbers of blocks
+        for(let i=0; i<tileCount; i++){
+            this.tiles.push(Math.floor(i/2));
+        }
+        // and randomize them
+        for (let i=this.tileCount-1;i>0;i--){
+            const swap = Math.floor(Math.random()*)
+        }
+    }
 };
 
