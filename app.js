@@ -39,7 +39,21 @@ const memoryGame = {
         }
         // and randomize them
         for (let i=this.tileCount-1;i>0;i--){
-            const swap = Math.floor(Math.random()*)
+            const swap = Math.floor(Math.random()*i);
+            const tmp = this.tiles[i];
+            this.tiles[i] = this.tiles[swap];
+            this.tiles[swap] = tmp;
+        }
+        for(let i = 0; i<this.tileCount;i++){
+            const tile = document.createElement('div');
+            tile.classList.add('game-tile');
+            this.divBoard.appendChild(tile);
+
+            tile.dataset.cardType = this.tiles[i];
+            tile.dataset.index = i;
+
+            tile.style.left = 5 + (tile.offsetWidth + 10)*(i%this.tileOnRow) + "px";
+            tile.style.top = 5 + (tile.offsetHeight + 10) * (Math.floor(i/this.tileOnRow)) + "px";
         }
     }
 };

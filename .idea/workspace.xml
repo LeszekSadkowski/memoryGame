@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09181d82-5a66-4d31-aa54-493ab77869af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +17,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inex.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+            <state relative-caret-position="529">
+              <caret line="55" column="98" selection-start-line="55" selection-start-column="98" selection-end-line="55" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -66,9 +67,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="453" />
-    <option name="y" value="58" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="36" />
+    <option name="y" value="21" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -121,21 +122,21 @@
       <option name="presentableId" value="Default" />
       <updated>1562605128869</updated>
       <workItem from="1562605133463" duration="28000" />
-      <workItem from="1562605312138" duration="7215000" />
+      <workItem from="1562605312138" duration="8080000" />
+      <workItem from="1562697859734" duration="2162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7243000" />
+    <option name="totallyTimeSpent" value="10270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="471" y="44" width="1400" height="784" extended-state="0" />
+    <frame x="29" y="17" width="1400" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.3297546" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -148,6 +149,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3297546" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -158,6 +160,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitIgnore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/inex.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -172,17 +181,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitIgnore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        <state relative-caret-position="529">
+          <caret line="55" column="98" selection-start-line="55" selection-start-column="98" selection-end-line="55" selection-end-column="98" />
         </state>
       </provider>
     </entry>
